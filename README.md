@@ -30,6 +30,6 @@ The goal of this dashboard is to provide actionable insights that help businesse
 
 ## 🖼️ Dashboard Preview
 (Add screenshots here once you upload images, e.g.)
-![Sales Overview](Screenshots/dashboard_overview.png)
+![Sales Overview]([Screenshots/dashboard_overview.png](https://github.com/yashdishoriya/Sales-Dashboard/blob/main/Dashboard%20for%20sales%20Insights.png))
 
 ---
